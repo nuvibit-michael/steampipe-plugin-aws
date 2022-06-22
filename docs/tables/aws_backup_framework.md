@@ -23,7 +23,7 @@ from
   aws_backup_framework;
 ```
 
-### List AWS frameworks created within the last 90 days
+### List frameworks created within the last 90 days
 
 ```sql
 select
